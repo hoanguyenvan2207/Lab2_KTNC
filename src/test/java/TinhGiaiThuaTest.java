@@ -19,10 +19,10 @@ class TinhGiaiThuaTest {
     @Test
     void tinhGiaiThua() {
         // Trường hợp biên
-        // Giả sử giới hạn N từ 1 -> 13
+        // Giả sử giới hạn N từ 0 -> 13
+        assertEquals(-1, lab2.tinhGiaiThua(-1));
         assertEquals(1, lab2.tinhGiaiThua(0));
         assertEquals(1, lab2.tinhGiaiThua(1));
-        assertEquals(2, lab2.tinhGiaiThua(2));
 
         assertEquals(479001600, lab2.tinhGiaiThua(12));
         assertEquals(6227020800L, lab2.tinhGiaiThua(13));
