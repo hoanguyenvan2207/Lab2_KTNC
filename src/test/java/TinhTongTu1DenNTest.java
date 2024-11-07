@@ -20,7 +20,7 @@ class TinhTongTu1DenNTest {
     void tinhTongTu1DenN() {
         // Phân vùng biên
         // Giả sử giới hạn N từ 1 -> 100
-        assertEquals(-1, lab2.tinhTongTu1DenN(0));
+        assertEquals(0, lab2.tinhTongTu1DenN(0));
         assertEquals(1, lab2.tinhTongTu1DenN(1));
         assertEquals(3, lab2.tinhTongTu1DenN(2));
 

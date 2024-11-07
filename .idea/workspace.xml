@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91da2b7e-48be-4ff8-8fec-8fe5d0984791" name="Changes" comment="" />
+    <list default="true" id="91da2b7e-48be-4ff8-8fec-8fe5d0984791" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TinhTongSiLeTu1DenNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TinhTongSiLeTu1DenNTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TinhTongTu1DenNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TinhTongTu1DenNTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +66,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TinhGiaiThuaTest.tinhGiaiThua">
+  <component name="RunManager" selected="JUnit.TinhTongSiLeTu1DenNTest.tinhTongSoLeTu1DenN">
     <configuration name="TinhGiaiThuaTest.tinhGiaiThua" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab2_KTNC" />
       <option name="PACKAGE_NAME" value="" />
@@ -114,8 +119,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TinhGiaiThuaTest.tinhGiaiThua" />
         <item itemvalue="JUnit.TinhTongSiLeTu1DenNTest.tinhTongSoLeTu1DenN" />
+        <item itemvalue="JUnit.TinhGiaiThuaTest.tinhGiaiThua" />
         <item itemvalue="JUnit.TinhTongTu1DenNTest.tinhTongTu1DenN" />
         <item itemvalue="JUnit.TinhTongTest.testTinhTongSoLeTu1DenN" />
         <item itemvalue="JUnit.TinhTongTest.testTinhGiaiThua" />
@@ -135,7 +140,9 @@
       <workItem from="1730682911788" duration="20000" />
       <workItem from="1730683111358" duration="104000" />
       <workItem from="1730768236320" duration="4184000" />
-      <workItem from="1730806656694" duration="820000" />
+      <workItem from="1730806656694" duration="1526000" />
+      <workItem from="1730908459516" duration="803000" />
+      <workItem from="1730941150300" duration="765000" />
     </task>
     <servers />
   </component>

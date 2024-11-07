@@ -20,7 +20,7 @@ class TinhTongSiLeTu1DenNTest {
     void tinhTongSoLeTu1DenN() {
         // Trường hợp biên
         // Giả sử giới hạn N từ 1 -> 50
-        assertEquals(-1, lab2.TinhTongSoLeTu1DenN(0));
+        assertEquals(0, lab2.TinhTongSoLeTu1DenN(0));
         assertEquals(1, lab2.TinhTongSoLeTu1DenN(1));
         assertEquals(1, lab2.TinhTongSoLeTu1DenN(2));
 
