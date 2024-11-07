@@ -36,4 +36,5 @@ class TinhGiaiThuaTest {
         assertEquals(5040, lab2.tinhGiaiThua(7));
 
     }
+
 }

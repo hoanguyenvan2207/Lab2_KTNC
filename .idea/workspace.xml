@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="91da2b7e-48be-4ff8-8fec-8fe5d0984791" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TinhTongSiLeTu1DenNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TinhTongSiLeTu1DenNTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TinhGiaiThuaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TinhGiaiThuaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TinhTongTu1DenNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TinhTongTu1DenNTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TinhTongSiLeTu1DenNTest.tinhTongSoLeTu1DenN">
+  <component name="RunManager" selected="JUnit.TinhTongTu1DenNTest">
     <configuration name="TinhGiaiThuaTest.tinhGiaiThua" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab2_KTNC" />
       <option name="PACKAGE_NAME" value="" />
@@ -87,21 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhTongTest.testTinhGiaiThua" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TinhTongTu1DenNTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab2_KTNC" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TinhTongTest" />
-      <option name="METHOD_NAME" value="testTinhGiaiThua" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="TinhTongTu1DenNTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhTongTest.testTinhTongSoLeTu1DenN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TinhTongTu1DenNTest.testTinhTongTu1DenNTaiBienTreniBang2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab2_KTNC" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TinhTongTest" />
-      <option name="METHOD_NAME" value="testTinhTongSoLeTu1DenN" />
+      <option name="MAIN_CLASS_NAME" value="TinhTongTu1DenNTest" />
+      <option name="METHOD_NAME" value="testTinhTongTu1DenNTaiBienTreniBang2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TinhTongTu1DenNTest" />
+        <item itemvalue="JUnit.TinhTongTu1DenNTest.testTinhTongTu1DenNTaiBienTreniBang2" />
         <item itemvalue="JUnit.TinhTongSiLeTu1DenNTest.tinhTongSoLeTu1DenN" />
         <item itemvalue="JUnit.TinhGiaiThuaTest.tinhGiaiThua" />
         <item itemvalue="JUnit.TinhTongTu1DenNTest.tinhTongTu1DenN" />
-        <item itemvalue="JUnit.TinhTongTest.testTinhTongSoLeTu1DenN" />
-        <item itemvalue="JUnit.TinhTongTest.testTinhGiaiThua" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +140,7 @@
       <workItem from="1730768236320" duration="4184000" />
       <workItem from="1730806656694" duration="1526000" />
       <workItem from="1730908459516" duration="803000" />
-      <workItem from="1730941150300" duration="765000" />
+      <workItem from="1730941150300" duration="2554000" />
     </task>
     <servers />
   </component>
