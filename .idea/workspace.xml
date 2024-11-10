@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91da2b7e-48be-4ff8-8fec-8fe5d0984791" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab3/Lab3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lab3/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lab3/GetNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lab3/TinhThuongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lab3/TinhTongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lab3/TinhTrungBinhCacSoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lab3/TruyXuatPhanTuTrongMangTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TinhGiaiThuaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TinhGiaiThuaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TinhTongTu1DenNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TinhTongTu1DenNTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab2/Lab2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TinhGiaiThuaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lab2/TinhGiaiThuaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TinhTongSiLeTu1DenNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lab2/TinhTongSiLeTu1DenNTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TinhTongTu1DenNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lab2/TinhTongTu1DenNTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,61 +64,101 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lab3" />
+      <recent name="lab2" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="lab3" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TinhTongTu1DenNTest">
-    <configuration name="TinhGiaiThuaTest.tinhGiaiThua" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.GetNameTest">
+    <configuration name="GetNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab2_KTNC" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TinhGiaiThuaTest" />
-      <option name="METHOD_NAME" value="tinhGiaiThua" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TinhTongSiLeTu1DenNTest.tinhTongSoLeTu1DenN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lab2_KTNC" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TinhTongSiLeTu1DenNTest" />
-      <option name="METHOD_NAME" value="tinhTongSoLeTu1DenN" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TinhTongTu1DenNTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lab2_KTNC" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TinhTongTu1DenNTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab3" />
+      <option name="MAIN_CLASS_NAME" value="lab3.GetNameTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhTongTu1DenNTest.testTinhTongTu1DenNTaiBienTreniBang2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GetNameTest.testGetNameVoiProfileRong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab2_KTNC" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TinhTongTu1DenNTest" />
-      <option name="METHOD_NAME" value="testTinhTongTu1DenNTaiBienTreniBang2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab3" />
+      <option name="MAIN_CLASS_NAME" value="lab3.GetNameTest" />
+      <option name="METHOD_NAME" value="testGetNameVoiProfileRong" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhTongTu1DenNTest.tinhTongTu1DenN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GetNameTest.testGetNameVoiTenHopLe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab2_KTNC" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TinhTongTu1DenNTest" />
-      <option name="METHOD_NAME" value="tinhTongTu1DenN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab3" />
+      <option name="MAIN_CLASS_NAME" value="lab3.GetNameTest" />
+      <option name="METHOD_NAME" value="testGetNameVoiTenHopLe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetNameTest.testGetNameVoiTenNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2_KTNC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab3" />
+      <option name="MAIN_CLASS_NAME" value="lab3.GetNameTest" />
+      <option name="METHOD_NAME" value="testGetNameVoiTenNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetNameTest.testGetNameWithLongName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2_KTNC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab3" />
+      <option name="MAIN_CLASS_NAME" value="lab3.GetNameTest" />
+      <option name="METHOD_NAME" value="testGetNameWithLongName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TinhTongTu1DenNTest" />
-        <item itemvalue="JUnit.TinhTongTu1DenNTest.testTinhTongTu1DenNTaiBienTreniBang2" />
-        <item itemvalue="JUnit.TinhTongSiLeTu1DenNTest.tinhTongSoLeTu1DenN" />
-        <item itemvalue="JUnit.TinhGiaiThuaTest.tinhGiaiThua" />
-        <item itemvalue="JUnit.TinhTongTu1DenNTest.tinhTongTu1DenN" />
+        <item itemvalue="JUnit.GetNameTest" />
+        <item itemvalue="JUnit.GetNameTest.testGetNameWithLongName" />
+        <item itemvalue="JUnit.GetNameTest.testGetNameVoiProfileRong" />
+        <item itemvalue="JUnit.GetNameTest.testGetNameVoiTenHopLe" />
+        <item itemvalue="JUnit.GetNameTest.testGetNameVoiTenNull" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +189,12 @@
       <workItem from="1730768236320" duration="4184000" />
       <workItem from="1730806656694" duration="1526000" />
       <workItem from="1730908459516" duration="803000" />
-      <workItem from="1730941150300" duration="2554000" />
+      <workItem from="1730941150300" duration="2984000" />
+      <workItem from="1730944252635" duration="1261000" />
+      <workItem from="1731042616680" duration="46000" />
+      <workItem from="1731043844131" duration="141000" />
+      <workItem from="1731112142453" duration="5013000" />
+      <workItem from="1731225305644" duration="5621000" />
     </task>
     <servers />
   </component>
