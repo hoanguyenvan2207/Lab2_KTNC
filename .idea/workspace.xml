@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91da2b7e-48be-4ff8-8fec-8fe5d0984791" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lab3/Lab3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lab3/Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lab3/GetNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lab3/TinhThuongTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lab3/TinhTongTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lab3/TinhTrungBinhCacSoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lab3/TruyXuatPhanTuTrongMangTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab2/Lab2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TinhGiaiThuaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lab2/TinhGiaiThuaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TinhTongSiLeTu1DenNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lab2/TinhTongSiLeTu1DenNTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TinhTongTu1DenNTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lab2/TinhTongTu1DenNTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lab3/GetNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lab3/GetNameTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,11 +183,22 @@
       <workItem from="1731042616680" duration="46000" />
       <workItem from="1731043844131" duration="141000" />
       <workItem from="1731112142453" duration="5013000" />
-      <workItem from="1731225305644" duration="5621000" />
+      <workItem from="1731225305644" duration="5927000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -10,6 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 class GetNameTest {
     Profile profile;
+
     @BeforeEach
     void setUp() {
         profile = new Profile("Hoa", 22, true);
@@ -26,22 +27,22 @@ class GetNameTest {
     }
 
     @Test
-    void testGetNameVoiTenRong(){
-        profile = new Profile("",10,true);
+    void testGetNameWithNameEmpty() {
+        profile = new Profile("", 10, true);
         assertEquals("", profile.GetName());
     }
 
     @Test
-    void testGetNameVoiTenNull(){
-        profile = new Profile(null,10,true);
+    void testGetNameWithNameNull() {
+        profile = new Profile(null, 10, true);
         NullPointerException exception = Assertions.assertThrows(NullPointerException.class, () -> profile.GetName());
         Assertions.assertEquals("Tên người dùng chưa được cấu hình", exception.getMessage());
     }
 
     @Test
-    void testGetNameVoiProfileRong(){
+    void testGetNameVoiProfileNull() {
         profile = null;
-        NullPointerException exception =Assertions.assertThrows(NullPointerException.class, () -> {
+        NullPointerException exception = Assertions.assertThrows(NullPointerException.class, () -> {
             if (profile == null) {
                 throw new NullPointerException("Không thể gọi phương thức trên đối tượng null.");
             }
@@ -60,4 +61,4 @@ class GetNameTest {
         String result = profile.GetName();
         assertEquals(longName, result);  // Kiểm tra tên dài có được trả về đúng hay không
     }
-    }
+}
